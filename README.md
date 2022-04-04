@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Luis, 20 👋
+...
 
 ### Lenguajes
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -55,5 +56,5 @@ Here are some ideas to get you started:
 ![Windi CSS](https://img.shields.io/badge/-Windi%20CSS-000?&logo=windicss)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Deno](https://img.shields.io/badge/-Deno-000?&logo=deno)
-![Jest](https://img.shields.io/badge/-Vue.js-000?&logo=jest)
+![Jest](https://img.shields.io/badge/-Jest-000?&logo=jest)
 ![WebdriverIO](https://img.shields.io/badge/-WebdriverIO-000?&logo=webdriverio)
