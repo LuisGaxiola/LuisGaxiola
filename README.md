@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 # Luis, 20 👋
-Paso la mayor parte de mi tiempo en esto
 
 ### Lenguajes
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -23,14 +22,14 @@ Paso la mayor parte de mi tiempo en esto
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp)
 ![SQL](https://img.shields.io/badge/-SQL-000)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnubash)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=html)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=css)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
 
-### Tecnologías, herramientas
+### Tecnologías - Herramientas
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=kubernetes)
@@ -46,14 +45,14 @@ Paso la mayor parte de mi tiempo en esto
 ![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
-![MicrosoftSqlServer](https://img.shields.io/badge/-Microsoft SQL Server-000?&logo=microsoftsqlserver)
+![MicrosoftSqlServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-000?&logo=microsoftsqlserver)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![ApacheSolr](https://img.shields.io/badge/-Apache Solr-000?&logo=apachesolr)
+![ApacheSolr](https://img.shields.io/badge/-Apache%20Solr-000?&logo=apachesolr)
 ![Neo4j](https://img.shields.io/badge/-Neo4j-000?&logo=neo4j)
 ![.NET](https://img.shields.io/badge/-.NET-000?&logo=dotnet)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=vuedotjs)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=nuxtdotjs)
-![Windi CSS](https://img.shields.io/badge/-Windi CSS-000?&logo=windicss)
+![Windi CSS](https://img.shields.io/badge/-Windi%20CSS-000?&logo=windicss)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Deno](https://img.shields.io/badge/-Deno-000?&logo=deno)
 ![Jest](https://img.shields.io/badge/-Vue.js-000?&logo=jest)
