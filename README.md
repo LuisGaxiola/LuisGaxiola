@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Luis, 20 👋
+# Luis, 20
 ...
 
 ### Lenguajes
