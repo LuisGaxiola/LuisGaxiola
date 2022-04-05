@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
 
-### Tecnologías - Herramientas
+### Herramientas
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=kubernetes)
