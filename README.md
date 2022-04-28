@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ...
 
 ### Lenguajes
+[![Javascript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://google.com)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
