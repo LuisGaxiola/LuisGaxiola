@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 ![Drone](https://img.shields.io/badge/-Drone-000?&logo=drone)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Github](https://img.shields.io/badge/-Github-000?&logo=Github)
+![Github](https://img.shields.io/badge/-Gitlab-000?&logo=Gitlab)
 ![Gitea](https://img.shields.io/badge/-Gitea-000?&logo=Gitea)
 ![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
