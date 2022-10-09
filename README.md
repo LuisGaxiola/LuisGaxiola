@@ -55,7 +55,7 @@ Luis, 20. Enfocado.
 ![Gitea](https://img.shields.io/badge/-Gitea-000?&logo=Gitea)
 ![Neovim](https://img.shields.io/badge/-Neovim-000?&logo=neovim)
 
-# Bases de datos
+### Bases de datos
 ![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
@@ -65,7 +65,7 @@ Luis, 20. Enfocado.
 ![Neo4j](https://img.shields.io/badge/-Neo4j-000?&logo=neo4j)
 ![.NET](https://img.shields.io/badge/-.NET-000?&logo=dotnet)
 
-# Web
+### Web
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=vuedotjs)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=nuxtdotjs)
 ![React](https://img.shields.io/badge/-React-000?&logo=react)
