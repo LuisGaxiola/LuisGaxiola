@@ -41,9 +41,6 @@ Luis, 20. Enfocado.
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 ![Podman](https://img.shields.io/badge/-Podman-000?&logo=podman)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=kubernetes)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000?&logo=raspberrypi)
-![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino)
-![Espressif](https://img.shields.io/badge/-Espressif-000?&logo=espressif)
 ![NGINX](https://img.shields.io/badge/-NGINX-000?&logo=nginx)
 ![Apache](https://img.shields.io/badge/-Apache-000?&logo=apache)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-000?&logo=cloudflare)
@@ -54,6 +51,13 @@ Luis, 20. Enfocado.
 ![Gitlab](https://img.shields.io/badge/-Gitlab-000?&logo=Gitlab)
 ![Gitea](https://img.shields.io/badge/-Gitea-000?&logo=Gitea)
 ![Neovim](https://img.shields.io/badge/-Neovim-000?&logo=neovim)
+![Jest](https://img.shields.io/badge/-Jest-000?&logo=jest)
+![WebdriverIO](https://img.shields.io/badge/-WebdriverIO-000?&logo=webdriverio)
+
+### IoT
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000?&logo=raspberrypi)
+![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino)
+![Espressif](https://img.shields.io/badge/-Espressif-000?&logo=espressif)
 
 ### Bases de datos
 ![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb)
@@ -63,7 +67,6 @@ Luis, 20. Enfocado.
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![ApacheSolr](https://img.shields.io/badge/-Apache%20Solr-000?&logo=apachesolr)
 ![Neo4j](https://img.shields.io/badge/-Neo4j-000?&logo=neo4j)
-![.NET](https://img.shields.io/badge/-.NET-000?&logo=dotnet)
 
 ### Web
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=vuedotjs)
@@ -76,5 +79,4 @@ Luis, 20. Enfocado.
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Bun](https://img.shields.io/badge/-Bun-000?&logo=bun)
 ![Deno](https://img.shields.io/badge/-Deno-000?&logo=deno)
-![Jest](https://img.shields.io/badge/-Jest-000?&logo=jest)
-![WebdriverIO](https://img.shields.io/badge/-WebdriverIO-000?&logo=webdriverio)
+![.NET](https://img.shields.io/badge/-.NET-000?&logo=dotnet)
