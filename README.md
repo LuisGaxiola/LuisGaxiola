@@ -23,7 +23,7 @@ Luis, 20. Enfocado.
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
 ![WebAssembly](https://img.shields.io/badge/-WebAssembly-000?&logo=webassembly)
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
-![C](https://img.shields.io/badge/-C-000?&logo=C)WebAssembly
+![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp)
 ![SQL](https://img.shields.io/badge/-SQL-000)
@@ -34,7 +34,7 @@ Luis, 20. Enfocado.
 
 ### Infraestructura & DevOps
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Linux Containers](https://img.shields.io/badge/-Linux%20Containers-000?&logo=linuxcontainers
+![Linux Containers](https://img.shields.io/badge/-Linux%20Containers-000?&logo=linuxcontainers)
 ![Fedora](https://img.shields.io/badge/-Fedora-000?&logo=fedora)
 ![NixOS](https://img.shields.io/badge/-NixOS-000?&logo=nixos)
 ![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=ansible)
