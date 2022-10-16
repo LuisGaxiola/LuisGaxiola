@@ -54,6 +54,19 @@ Luis, 20. Enfocado.
 ![Jest](https://img.shields.io/badge/-Jest-000?&logo=jest)
 ![WebdriverIO](https://img.shields.io/badge/-WebdriverIO-000?&logo=webdriverio)
 
+### Web
+![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=vuedotjs)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=nuxtdotjs)
+![React](https://img.shields.io/badge/-React-000?&logo=react)
+![Svelte](https://img.shields.io/badge/-Svelte-000?&logo=svelte)
+![Astro](https://img.shields.io/badge/-Astro-000?&logo=astro)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=tailwindcss)
+![UnoCSS](https://img.shields.io/badge/-UnoCSS-000?&logo=unocss)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Bun](https://img.shields.io/badge/-Bun-000?&logo=bun)
+![Deno](https://img.shields.io/badge/-Deno-000?&logo=deno)
+![.NET](https://img.shields.io/badge/-.NET-000?&logo=dotnet)
+
 ### IoT
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000?&logo=raspberrypi)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino)
@@ -67,16 +80,3 @@ Luis, 20. Enfocado.
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![ApacheSolr](https://img.shields.io/badge/-Apache%20Solr-000?&logo=apachesolr)
 ![Neo4j](https://img.shields.io/badge/-Neo4j-000?&logo=neo4j)
-
-### Web
-![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=vuedotjs)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=nuxtdotjs)
-![React](https://img.shields.io/badge/-React-000?&logo=react)
-![Svelte](https://img.shields.io/badge/-Svelte-000?&logo=svelte)
-![Astro](https://img.shields.io/badge/-Astro-000?&logo=astro)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=tailwind)
-![UnoCSS](https://img.shields.io/badge/-UnoCSS-000?&logo=unocss)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Bun](https://img.shields.io/badge/-Bun-000?&logo=bun)
-![Deno](https://img.shields.io/badge/-Deno-000?&logo=deno)
-![.NET](https://img.shields.io/badge/-.NET-000?&logo=dotnet)
