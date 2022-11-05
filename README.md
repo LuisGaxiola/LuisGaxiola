@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>Sobre mí</h3>
+<h3 style="color: green">Sobre mí</h3>
 Luis, 20. Enfocado.
 
 ### Lenguajes
